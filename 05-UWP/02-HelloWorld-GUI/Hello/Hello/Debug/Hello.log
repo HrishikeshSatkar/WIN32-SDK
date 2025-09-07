@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Creating library C:\WinDev2021\05-UWP\02-HelloWorld-GUI\Hello\Debug\Hello\Hello.lib and object C:\WinDev2021\05-UWP\02-HelloWorld-GUI\Hello\Debug\Hello\Hello.exp
+  Hello.vcxproj -> C:\WinDev2021\05-UWP\02-HelloWorld-GUI\Hello\Debug\Hello\Hello.exe

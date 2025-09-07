@@ -1,0 +1,1 @@
+C:\WinDev2021\05-UWP\02-HelloWorld-GUI\Hello\Hello\Hello.vcxproj;x86
