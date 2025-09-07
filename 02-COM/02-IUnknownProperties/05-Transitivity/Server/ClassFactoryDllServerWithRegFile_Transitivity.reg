@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{6A4B6884-D687-43DB-A77E-A3FDABDD5A33}]
+@="MyComDll"
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{6A4B6884-D687-43DB-A77E-A3FDABDD5A33}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\ClassFactoryDllServerWithRegFile_Transitivity.dll"

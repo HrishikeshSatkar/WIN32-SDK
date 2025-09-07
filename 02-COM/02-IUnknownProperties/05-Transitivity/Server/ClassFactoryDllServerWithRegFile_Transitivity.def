@@ -1,0 +1,5 @@
+LIBRARY ClassFactoryDllServerWithRegFile_Transitivity
+EXPORTS
+	DllGetClassObject PRIVATE
+	DllCanUnloadNow   PRIVATE
+	
